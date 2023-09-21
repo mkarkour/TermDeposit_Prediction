@@ -16,7 +16,7 @@ The data is related to the direct marketing campaigns of a Portuguese banking in
 
 - `train.csv`: Contains 45,211 rows and 18 columns, ordered by date (from May 2008 to November 2010).
 - `test.csv`: Contains 4,521 rows and 18 columns, representing 10% of the examples (4,521), randomly selected from `train.csv`.
-  --> The two csv files have been merged into a single file named `bank-additional-full.csv`
+The two csv files have been merged into a single file named `bank-additional-full.csv`
 
 ### Detailed Column Descriptions
 
